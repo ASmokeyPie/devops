@@ -7,3 +7,6 @@ Making some progress!
 [![LICENSE](https://img.shields.io/github/license/ASmokeyPie/devops.svg?style=flat-square)](https://github.com/ASmokeyPie/devops/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/ASmokeyPie/devops/all.svg?style=flat-square)](https://github.com/ASmokeyPie/devops/releases)
+
+# DevOps
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ASmokeyPie/devops/main.yml)
